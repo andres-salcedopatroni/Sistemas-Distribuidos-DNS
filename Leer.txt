@@ -1,0 +1,5 @@
+Instalar dependencias:
+npm install
+
+Ejecutar la aplicación:
+SET DEBUG=dns:* & npm start
